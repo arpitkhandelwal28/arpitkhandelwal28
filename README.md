@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi I'm Arpit Khandelwal</h1>
-<h3 align="left">💻 Aspiring Web Developer | 🚀 Currently diving into HTML, CSS, JavaScript, and modern frameworks | 🌱 Building projects to sharpen my skills | 📚 Lifelong learner | 🌐 Open to collaboration and feedback.</h3>
+<h3 align="left">💻 Aspiring Web Developer | 🚀 Currently diving into HTML, CSS, JavaScript, and modern frameworks | 💡 Building projects to sharpen my skills | 📚 Lifelong learner | 🌐 Open to collaboration and feedback.</h3>
  
  🌱Learning: **build scalable and dynamic web applications | 💻 Exploring front-end (HTML, CSS, JavaScript) and back-end (Node.js, Express, MongoDB, etc.) technologies.**
  
