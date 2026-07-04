@@ -51,17 +51,18 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:akhandelwal1228@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/arpitkhandelwal28" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/arpitkhandelwal28" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/gmail" width="22" height="22" alt="Gmail" />
+  <a href="mailto:akhandelwal1228@gmail.com">akhandelwal1228@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linkedin" width="22" height="22" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/arpitkhandelwal28" target="_blank">Arpit Khandelwal</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/github" width="22" height="22" alt="GitHub" />
+  <a href="https://github.com/arpitkhandelwal28" target="_blank">arpitkhandelwal28</a>
 </p>
 
 ---
